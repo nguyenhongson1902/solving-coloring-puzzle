@@ -15,8 +15,8 @@ Figure 1)
 Please flick through `cnfsat.pdf` file
 
 ## Idea:
-The idea comes from Minesweeper problems. Read more about the problem in `.\references\lecture08` 
-and `.\references\lecture09`
+The idea comes from Minesweeper problems. Read more about the problem in `./references/lecture08` 
+and `./references/lecture09`
 
 **KN(k,n) = U(k,n) ^ L(k,n)**
 
