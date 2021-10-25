@@ -6,7 +6,7 @@ You are asked to build a coloring puzzle solver by using the first order logic t
 as described below:
 - Given a matrix of size m x n, where each cell will be a non-negative integer or zero 
 (empty cell). Each cell is considered to be adjacent to itself and 8 surrounding cells.
-- Your puzzle needs to color all the cells of the matrix with either blue or red, so that the 
+- Your puzzle needs to color all the cells of the matrix with either green or red, so that the 
 number inside each cell corresponds to the number of green squares adjacent to that cell (see 
 Figure 1)
 ![alt text](figure1.JPG)
