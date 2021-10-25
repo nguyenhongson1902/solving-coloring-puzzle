@@ -12,7 +12,7 @@ Figure 1)
 ![alt text](figure1.JPG)
 
 ## Introduction to Satisfiability Problems (SAT)
-Read `cnfsat.pdf` file
+Please flick through `cnfsat.pdf` file
 
 ## Idea:
 The idea comes from Minesweeper problems. Read more about the problem in `.\references\lecture08` 
