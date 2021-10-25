@@ -18,21 +18,21 @@ Read `cnfsat.pdf` file
 The idea comes from Minesweeper problems. Read more about the problem in `.\references\lecture08` 
 and `.\references\lecture09`
 
-**$KN(k,n) = U(k,n)$ ^ $L(k,n)$**
+**KN(k,n) = U(k,n) ^ L(k,n)**
 
-$KN(k,n)$: $k$ out of $n$ adjacent unknown squares are mines
+KN(k,n): k out of n adjacent unknown squares are mines
 
-$U(k,n)$: At most $k$ out of $n$ squares contain a mine
+U(k,n): At most k out of n squares contain a mine
 
-$L(k,n)$: At least $k$ out of $n$ squares contain a mine
+L(k,n): At least k out of n squares contain a mine
 
 **Conversion to at least**
 
-The proposition holds True if and only if $k > 0$ and $k + 1 <= n$
+The proposition holds True if and only if k > 0 and k + 1 <= n
 
-$U(k,n)$: For any $k+1$ squares out of $n$, at least one is not a mine
+U(k,n): For any k+1 squares out of n, at least one is not a mine
 
-$L(k,n)$: For any $n-(k-1)$ squares out of $n$, at least one is mine
+L(k,n): For any n-(k-1) squares out of n, at least one is mine
 
 **With the problem:** The number of unknown squares = The number of adjacent squares
 
